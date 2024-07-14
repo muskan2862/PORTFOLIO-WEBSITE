@@ -1,3 +1,3 @@
 # PORTFOLIO-WEBSITE
-This is my profile
+This is my profile.
 AUTHOR - Muskan singh
